@@ -157,6 +157,8 @@ func removeClient(conn *websocket.Conn) {
 ---
 
 ## 🔥 **Как запустить**
+0. На Windows можно просто запустить файл: main.exe
+Или 
 1. Установите библиотеку WebSocket:
    ```bash
    go get github.com/gorilla/websocket
